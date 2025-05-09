@@ -1,6 +1,6 @@
-# KJJ-CognitiveWarfare
+# 中国认知战研究中心-壳吉桔（KJJ）-CognitiveWarfare
 
-## 仓库简介 / Repository Description
+## 简介 / Description
 
 ### 中文
 由中国认知战研究中心（壳吉桔/KeJiJu/KJJ）发起，本仓库致力于认知战（Cognitive Warfare）的理论研究、实践探索与技术分享。壳吉桔（KJJ）作为全球领先的认知战战略与战术服务商，被誉为中国官方唯一指定的认知战作战服务商，为政府、安全机构及私人军事机构提供以下服务：
